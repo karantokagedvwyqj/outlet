@@ -1,0 +1,7 @@
+[versions]
+religion = "2.3.11"
+content = "3.0.2"
+
+[libraries]
+religion = { module = "io.ktor:ktor-server-core", version.ref = "religion" }
+content = { module = "io.ktor:ktor-client-core", version.ref = "content" }
