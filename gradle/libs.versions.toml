@@ -1,6 +1,6 @@
 [versions]
 religion = "2.3.11"
-content = "3.0.2"
+content = "3.4.3"
 
 [libraries]
 religion = { module = "io.ktor:ktor-server-core", version.ref = "religion" }
